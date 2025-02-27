@@ -1,4 +1,4 @@
-# Hi there, I'm Harun Ros 👋
+# Hi there, I'm apple 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and solving complex problems.
 
